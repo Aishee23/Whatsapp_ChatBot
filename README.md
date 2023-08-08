@@ -17,6 +17,6 @@ Multi-language Support: The chatbot supports multiple languages, making it acces
 User-Friendly: The bot is designed with a user-friendly interface, making interactions intuitive and efficient.
 
 # Usage
-Start a conversation with your WhatsApp bot by sending a message to the Twilio-provided phone number.
+Start a conversation with your WhatsApp bot by sending a message to the provided phone number.
 The bot will respond based on the predefined rules and interactions you've set up.
 Experiment with different prompts and queries to explore the capabilities of the chatbot.
