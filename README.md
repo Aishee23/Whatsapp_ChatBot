@@ -16,6 +16,9 @@ Multi-language Support: The chatbot supports multiple languages, making it acces
 
 User-Friendly: The bot is designed with a user-friendly interface, making interactions intuitive and efficient.
 
+# Special Note: 
+It takes a CSV file with Phone numbers without the country code and their is a versatile feature which appends the country code at run time if not already present!
+
 # Usage
 Start a conversation with your WhatsApp bot by sending a message to the provided phone number.
 The bot will respond based on the predefined rules and interactions you've set up.
