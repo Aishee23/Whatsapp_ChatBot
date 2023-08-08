@@ -22,9 +22,10 @@ def send_whatsapp_message(phno,msg):
     except Exception as e:
         print(str(e))
 no=np.array(si[0])
+co=str(input("Enter the country code")
 ms=str(input("Enter message to send : "))
 for num in no:
-    if num.startswith("+91"):
+    if num.startswith(co):
         send_whatsapp_message(str(num),ms)
     else:
-        send_whatsapp_message("+91"+str(num),ms)
+        send_whatsapp_message(co +str(num),ms)
